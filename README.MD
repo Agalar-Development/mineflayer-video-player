@@ -30,7 +30,7 @@ or
 $ mineflayer-video-player
 ```
 
-There is a shorthand version of the command called `mvp` you can use it too instead of `mineflayer-video-player `
+There is a shorthand version of the command called `mvp` you can use it too instead of `mineflayer-video-player`
 ### [Examples](https://github.com/Agalar-Development/mineflayer-video-player/tree/master/examples)
 
 ### Contributions
