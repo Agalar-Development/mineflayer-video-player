@@ -1,0 +1,39 @@
+{
+  "name": "mineflayer-video-player",
+  "version": "1.0.0",
+  "description": "A video player in game built with Mineflayer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agalar-Development/mineflayer-video-player.git"
+  },
+  "bin": {
+    "mvp": "./bin/cli.js",
+    "mineflayer-video-player": "./bin/cli.js"
+  },
+  "keywords": [
+    "mineflayer",
+    "minecraft",
+    "video",
+    "ffmpeg",
+    "video player",
+    "agalar"
+  ],
+  "author": "CrawLeyYou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agalar-Development/mineflayer-video-player/issues"
+  },
+  "homepage": "https://github.com/Agalar-Development/mineflayer-video-player#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "jimp": "^1.6.0",
+    "minecraft-data": "^3.80.0",
+    "sqlite3": "^5.1.7",
+    "yargs": "^17.7.2"
+  }
+}

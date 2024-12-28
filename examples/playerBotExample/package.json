@@ -1,0 +1,10 @@
+{
+  "name": "playerbot-example",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "CrawLeyYou",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  }
+}
