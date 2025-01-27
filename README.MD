@@ -33,6 +33,9 @@ $ mineflayer-video-player
 There is a shorthand version of the command called `mvp` you can use it too instead of `mineflayer-video-player`
 ### [Examples](https://github.com/Agalar-Development/mineflayer-video-player/tree/master/examples)
 
+[![Video](https://img.youtube.com/vi/U3kz7U3VnSA/0.jpg)](https://www.youtube.com/watch?v=U3kz7U3VnSA "Bad Apple with Minecraft Bot (Better Version)")
+
+
 ### Contributions
 
 This project is accepting PRs and Issues. See something you think can be improved? Go for it! Any and all help is highly appreciated!

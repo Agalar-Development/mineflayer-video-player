@@ -2,7 +2,6 @@ import childProcess from 'child_process';
 
 function inject(bot) {
   bot.video = {}
-  let blocksinglearray = []
   /**
   * 
   * @param {string} filePath
@@ -47,7 +46,6 @@ function inject(bot) {
         }
       })
       internalY = 0
-      blocksinglearray = []
       frame++
     })
     bot.video.process.on("exit", () => {
